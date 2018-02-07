@@ -1,9 +1,9 @@
 header.masthead {
-    background-image: url("../img/panoramica-balcone.jpg");
+    background-image: url("../img/piante-rigogliose.jpg");
     max-width: 100%;
     height: auto;
   }
-  
+
   header.masthead>.overlay {
     text-align: center;
     background: rgba(0, 0, 0, 0.4);
